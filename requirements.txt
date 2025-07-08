@@ -1,4 +1,4 @@
 # requirements.txt
-# Add your project dependencies here, one per line.
+# Add project dependencies here, one per line.
 pyserial
 elliptec

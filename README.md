@@ -1,2 +1,2 @@
 # PhotonicsAuto
-Photonics automation with Pythion. Thorlabs controllers
+IEEE Workshop on Photonics Automation with Python
